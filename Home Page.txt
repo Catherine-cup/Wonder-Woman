@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible"content="IE=edge">
+        <meta name="viewport"content="width=device-width">
+        <title>Name of the website</title>
+        <style type="text/css">
+              body{
+                    font-family: Georgia,times,serif;}
+              h1,h2{
+                 font-famlily: Arial,verdana,sans-serif;}
+              . credits {
+                  font-famliy:"Courier New', Couroer,
+                     monospace;}
+       </style>
+   </head>
+   <body>
+          <img src="WW1984.jpg" alt="Wonder Woman"/>
+     
+      <h1><center>Wonder woman</center></h1>
+      <p class="credits"><center>by  Catherine</center></p>
+      <p>Beautiful as Aphrodite, wise as Athena, swifter than Hermes, <br>
+             and stronger than Hercules, Princess Diana of Themyscira fights for peace in Man's World.</p>
+       <h2><a href="Untitled-1.html"target="_top">Movie content</a></h2>
