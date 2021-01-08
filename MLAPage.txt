@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+   <head>  
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible"content="IE=edge">
+        <meta name="viewport"content="width=device-width">
+        <title>MLA</title>
+        <p>“Wonder Woman.” Wonder Woman (2017) Italian Movie Cover, 30 May 2017, www.cinematerial.com/movies/wonder-woman-i451279/p/0edfztmm. </p>
+        <p>Mancuso, Vinnie, and Vinnie Mancuso                                    (1552 Articles Published)</p>
+        <p>Courtney Leiva                                                                                                    Updated Jun 13, and Courtney Leiva. “Gal Gadot's Makeup Artist FINALLY Shares The Secret to Wonder Woman's KILLER Makeup Look!” HelloGiggles, hellogiggles.com/beauty/makeup/gal-gadot-makeup-artist-reveals-beauty-secrets-from-wonder-woman-film/. </p>
+        <p>Kit, Borys. “Wonder Woman Actress Gal Gadot Joins Kevin Costner in 'Criminal' (Exclusive).” The Hollywood Reporter, 13 Aug. 2014, www.hollywoodreporter.com/heat-vision/wonder-woman-actress-gal-gadot-725074. </p>
+        <p>Teddy Wayne,Chris Colls,July 20, and Teddy Wayne. “Gal Gadot.” Interview Magazine, 22 July 2015, www.interviewmagazine.com/film/gal-gadot. </p>
+        <p>“Gal Gadot - Style Magazine Germany December 2017 Issue • CelebMafia.” CelebMafia, 9 Nov. 2017, celebmafia.com/gal-gadot-style-magazine-germany-december-2017-issue-1113448/. </p>
+                                                                                                                                                                                 . “'Wonder Woman 1984' Is the Scariest Body Horror Movie of 2020.” Collider, 27 Dec. 2020, collider.com/wonder-woman-1984-steve-trevor-return-explained/. </p>
+   </html>
